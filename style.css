@@ -1,0 +1,14 @@
+.row {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.col {
+    background-color:chartreuse;
+    height: 500px;
+    margin: 10px;
+    flex: 1;
+}
+
