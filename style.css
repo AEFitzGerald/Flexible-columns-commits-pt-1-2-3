@@ -5,17 +5,17 @@
     width: 100%;
 }
 
-.col {
+.col-2 {
     background-color:chartreuse;
     height: 500px;
     margin: 10px;
-    flex: 1;
+    flex: 2;
 }
 
-.col-2 {
+.col-3 {
     background-color: magenta;
     height: 500px;
     margin: 10px;
-    flex: 2;
+    flex: 3;
 }
 
