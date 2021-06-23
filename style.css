@@ -12,3 +12,10 @@
     flex: 1;
 }
 
+.col-2 {
+    background-color: magenta;
+    height: 500px;
+    margin: 10px;
+    flex: 2;
+}
+
